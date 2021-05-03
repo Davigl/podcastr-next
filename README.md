@@ -3,21 +3,21 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/davigl/podcastr.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/davigl/podcastr-next.svg">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/davigl/podcastr.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/davigl/podcastr-next.svg">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/davigl/podcastr.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/davigl/podcastr-next.svg">
 
-  <a href="https://github.com/davigl/podcastr/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/davigl/podcastr.svg">
+  <a href="https://github.com/davigl/podcastr-next/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/davigl/podcastr-next.svg">
   </a>
 
-  <a href="https://github.com/davigl/podcastr/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/davigl/podcastr.svg">
+  <a href="https://github.com/davigl/podcastr-next/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/davigl/podcastr-next.svg">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/davigl/podcastr.svg">
+  <img alt="GitHub" src="https://img.shields.io/github/license/davigl/podcastr-next.svg">
 </p>
 
 <p align="center">
@@ -41,10 +41,11 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/davigl/podcastr-next
+$ git clone https://github.com/davigl/
+-next
 
 # Go into the repository and install dependencies
-$ cd podcastr && yarn
+$ cd podcastr-next && yarn
 
 # Run backend
 $ yarn server
@@ -55,7 +56,7 @@ $ yarn dev
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/davigl/podcastr/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/davigl/podcastr-next/blob/master/LICENSE) for more information.
 
 ---
 
