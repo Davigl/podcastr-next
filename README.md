@@ -3,21 +3,21 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/melquisedecfelipe/podcastr.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/davigl/podcastr.svg">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/melquisedecfelipe/podcastr.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/davigl/podcastr.svg">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/melquisedecfelipe/podcastr.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/davigl/podcastr.svg">
 
-  <a href="https://github.com/melquisedecfelipe/podcastr/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/melquisedecfelipe/podcastr.svg">
+  <a href="https://github.com/davigl/podcastr/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/davigl/podcastr.svg">
   </a>
 
-  <a href="https://github.com/melquisedecfelipe/podcastr/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/melquisedecfelipe/podcastr.svg">
+  <a href="https://github.com/davigl/podcastr/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/davigl/podcastr.svg">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/melquisedecfelipe/podcastr.svg">
+  <img alt="GitHub" src="https://img.shields.io/github/license/davigl/podcastr.svg">
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/melquisedecfelipe/podcastr
+$ git clone https://github.com/davigl/podcastr-next
 
 # Go into the repository and install dependencies
 $ cd podcastr && yarn
@@ -55,8 +55,8 @@ $ yarn dev
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/melquisedecfelipe/podcastr/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/davigl/podcastr/blob/master/LICENSE) for more information.
 
 ---
 
-:wave: [Get in touch!](https://www.linkedin.com/in/melquisedecfelipe/)
+:wave: [Get in touch!](https://www.linkedin.com/in/davi-guimaraes/)
